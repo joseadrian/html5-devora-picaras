@@ -1,0 +1,9 @@
+# Project Files
+*.sublime-workspace
+
+# Directorios
+bower_components/
+
+Mongoose.app
+
+

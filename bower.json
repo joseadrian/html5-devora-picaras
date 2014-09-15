@@ -1,0 +1,12 @@
+{
+  "name": "soles",
+  "version": "0.0.0",
+  "authors": [
+    "Joseadrian <joseadrian@outlook.com>"
+  ],
+  "install": {
+    "path": "scripts/js/lib"
+  },
+  "license": "MIT",
+  "private": true
+}

@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "file_exclude_patterns": [
+        "license.txt"
+      ],
+      "folder_exclude_patterns": [
+        "Mongoose.app"
+      ],
+      "follow_symlinks": true,
+      "path": "."
+    }
+  ],
+  "settings": {
+    "afn_use_project_root": true,
+    "afn_proj_root": "/Users/joseadrian/Developer/phaser/soles/"
+  }
+}
