@@ -1,1 +1,1 @@
-# [Play](http://joseadrian.github.io/devora-picaras-html5)
+# [Play](http://joseadrian.github.io/html5-devora-picaras)
